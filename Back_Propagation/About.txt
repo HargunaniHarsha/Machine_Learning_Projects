@@ -1,0 +1,5 @@
+Hey Everyone!
+This code can differentiate between mp3(audio) and mp4(video)
+Using Back Propagation Algorithm
+Parameters used are ratio of flie size and duration ,bit_rate, audio_offset and sample_rate
+You can find the link of video dataset in "BP_Explanation_pdf"
